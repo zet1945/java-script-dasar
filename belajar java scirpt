@@ -1,0 +1,7 @@
+tipe data numbers = 1 2 3 4
+nilai NAN(non a number) = 0/0
+menggunakan let untuk variabel baru = let namasaya
+menggunakan const untuk variabel baru = const halo
+variabel let dapa diperbarui sedangkan const tetap
+data booleani= true and false
+data string ("''") ="pisang" 'pisang'
