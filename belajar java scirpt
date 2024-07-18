@@ -5,3 +5,4 @@ menggunakan const untuk variabel baru = const halo
 variabel let dapa diperbarui sedangkan const tetap
 data booleani= true and false
 data string ("''") ="pisang" 'pisang'
+menggunakan touppercase, tolowercase, dan trim/ contoh helo world.touppercase = HELO WORLD
