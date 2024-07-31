@@ -8,3 +8,9 @@ data string ("''") ="pisang" 'pisang'
 menggunakan touppercase, tolowercase, dan trim/ contoh helo world.touppercase = HELO WORLD
 menggunakan mdn web docs
 index of, slice, replace/   helo world.index of(w)=6/  helo world.slice(4)=o world/ helo world.replace('helo, hollow')=hollow world
+operator pembanding ==, ===, <=, <, >, >=, !==, !===
+contoh:
+let x = 5;
+x == '5'; // true
+x === '5' // false
+x === 5 // true
