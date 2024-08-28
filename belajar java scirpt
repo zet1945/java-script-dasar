@@ -22,3 +22,4 @@ AND (&&)
 Merupakan operator yang membandingkan dua operand dan bila keduanya true, maka dianggap true
 NOT (!)
 Merupakan operator yang membutuhkan hanya satu operand dan menghasilkan nilai kebalikan dari operand itu sendiri.
+tanda += digunakan untuk penjumlahan/pengabungan variabel
